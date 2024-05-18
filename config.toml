@@ -1,0 +1,7 @@
+[cache]
+directory = "./.cache"
+mapping = "./.cache/mapping.json"
+
+[target]
+base_url = "https://www.thw-ausbildungszentrum.de"
+entry_point = "THW-BuS/DE/Ausbildungsangebot/Lehrgangskalender/lehrgangskalender_node.html"
